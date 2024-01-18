@@ -16,21 +16,24 @@ My current research focuses on image registration and polar sea ice drift predic
 
 Publications
 ======
-You can also find my articles on [ORCID](https://orcid.org/0000-0003-0466-1001)
 
 2024
 ======
-* Zijun Wei; Chaozhen Lan; Qing Xu; Longhao Wang; __Tian Gao__; Fushan Yao; Huitai Hou.\
-  SatellStitch: Satellite Imagery-Assisted UAV Image Seamless Stitching for Emergency Response without GCP and GNSS. Remote Sensing. [pdf](https://www.mdpi.com/2072-4292/16/2/309) (IF-5.0, JCR-Q1, 中科院2区)
+* [SatellStitch: Satellite Imagery-Assisted UAV Image Seamless Stitching for Emergency Response without GCP and GNSS](https://www.mdpi.com/2072-4292/16/2/309)\
+  Zijun Wei; Chaozhen Lan; Qing Xu; Longhao Wang; __Tian Gao__; Fushan Yao; Huitai Hou.\
+  Remote Sensing. (IF-5.0, JCR-Q1, 中科院2区)
 
 2023
 ======
-* __Tian Gao__, Chaozhen Lan, Wenjun Huang, Longhao Wang, Zijun Wei; Fushan Yao.\
-  Multiscale Template Matching for Multimodal Remote Sensing Image. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [pdf](https://ieeexplore.ieee.org/document/10292840/metrics#metrics) (IF-5.5, JCR-Q1, 中科院2区top)
-* __Tian Gao__; Chaozhen Lan; Longhao Wang; Huang, W.; Fushan Yao; Zijun Wei.\
-  Leveraging CNNs for Panoramic Image Matching Based on Improved Cube Projection Model. Remote Sensing. [pdf](https://www.mdpi.com/2072-4292/15/13/3411) (IF-5.0, JCR-Q1, 中科院2区)
+* [Multiscale Template Matching for Multimodal Remote Sensing Image](https://ieeexplore.ieee.org/document/10292840/metrics#metrics)
+  __Tian Gao__, Chaozhen Lan, Wenjun Huang, Longhao Wang, Zijun Wei; Fushan Yao.\
+  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (IF-5.5, JCR-Q1, 中科院2区top)
+* [Leveraging CNNs for Panoramic Image Matching Based on Improved Cube Projection Model](https://www.mdpi.com/2072-4292/15/13/3411)
+  __Tian Gao__; Chaozhen Lan; Longhao Wang; Huang, W.; Fushan Yao; Zijun Wei.\
+  Remote Sensing. (IF-5.0, JCR-Q1, 中科院2区)
 
 2022
 ======
-* Longhao Wang; Chaozhen Lan; Beibei Wu; __Tian Gao__; Zijun Wei; Fushan Yao.\
-  A Method for Detecting Feature-Sparse Regions and Matching Enhancement. Remote Sensing. [pdf](https://www.mdpi.com/2072-4292/14/24/6214) (IF-5.0, JCR-Q1, 中科院2区)
+* [A Method for Detecting Feature-Sparse Regions and Matching Enhancement](https://www.mdpi.com/2072-4292/14/24/6214)
+  Longhao Wang; Chaozhen Lan; Beibei Wu; __Tian Gao__; Zijun Wei; Fushan Yao.\
+  Remote Sensing. (IF-5.0, JCR-Q1, 中科院2区)
