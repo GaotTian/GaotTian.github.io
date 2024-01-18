@@ -25,15 +25,15 @@ Publications
 
 2023
 ======
-* [Multiscale Template Matching for Multimodal Remote Sensing Image](https://ieeexplore.ieee.org/document/10292840/metrics#metrics)
+* [Multiscale Template Matching for Multimodal Remote Sensing Image](https://ieeexplore.ieee.org/document/10292840/metrics#metrics)\
   __Tian Gao__, Chaozhen Lan, Wenjun Huang, Longhao Wang, Zijun Wei; Fushan Yao.\
   IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (IF-5.5, JCR-Q1, 中科院2区top)
-* [Leveraging CNNs for Panoramic Image Matching Based on Improved Cube Projection Model](https://www.mdpi.com/2072-4292/15/13/3411)
+* [Leveraging CNNs for Panoramic Image Matching Based on Improved Cube Projection Model](https://www.mdpi.com/2072-4292/15/13/3411)\
   __Tian Gao__; Chaozhen Lan; Longhao Wang; Huang, W.; Fushan Yao; Zijun Wei.\
   Remote Sensing. (IF-5.0, JCR-Q1, 中科院2区)
 
 2022
 ======
-* [A Method for Detecting Feature-Sparse Regions and Matching Enhancement](https://www.mdpi.com/2072-4292/14/24/6214)
+* [A Method for Detecting Feature-Sparse Regions and Matching Enhancement](https://www.mdpi.com/2072-4292/14/24/6214)\
   Longhao Wang; Chaozhen Lan; Beibei Wu; __Tian Gao__; Zijun Wei; Fushan Yao.\
   Remote Sensing. (IF-5.0, JCR-Q1, 中科院2区)
