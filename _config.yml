@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Zheng Zhou"
   pubmed           : 
-  sciprofiles      : "https://sciprofiles.com/profile/LooperzZ"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :Gao_ttian@163.com
+  employer         : 
+  googlescholar    : "https://sciprofiles.com/profile/LooperzZ"
+  email            : Gao_ttian@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/GaotTian"
+  github           : "GaotTian"
   google_plus      :
   keybase          :
   instagram        :
