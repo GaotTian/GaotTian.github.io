@@ -84,8 +84,8 @@ author:
   avatar           : "profile1.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Zheng Zhou"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  email            :  Gao_ttian@163.com
+  sciprofiles      : "https://sciprofiles.com/profile/LooperzZ"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
