@@ -21,7 +21,5 @@ You can also find my articles on [my ORCID](https://orcid.org/0000-0003-0466-100
 2022
 ======
 * Longhao Wang; Chaozhen Lan; Beibei Wu; __Tian Gao__; Zijun Wei; Fushan Yao. A Method for Detecting Feature-Sparse Regions and Matching Enhancement. Remote Sensing. 2022, 14, 6214. [pdf](https://www.mdpi.com/2072-4292/14/24/6214) (IF-5.0, JCR-Q1, 中科院2区)
-*
-*
-*
+
 
