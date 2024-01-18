@@ -14,6 +14,13 @@ I received my bachelor's degree in surveying and mapping engineering from the Un
 
 My current research focuses on image registration and polar sea ice drift prediction using multi-sensor remote sensing images.
 
+Skills
+======
+
+- Language: Matlab, Python,C/C++.
+- Knowledge: Understand Linux, Windows
+- Tool: Latex, Git.
+
 Publications
 ======
 
