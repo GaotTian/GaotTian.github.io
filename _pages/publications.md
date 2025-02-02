@@ -10,6 +10,7 @@ You can also find my articles on [my ORCID](https://orcid.org/0000-0003-0466-100
 
 2024
 ======
+* Wenjun Huang; Qun Sun; Wenyue Guo; Qing Xu; Jingzhen Ma; __Tian Gao__; Anzhu Yu. DEM super-resolution guided by shaded relief using attention-based fusion. Remote Sensing. 2024, vol. 132. [pdf](https://www.sciencedirect.com/science/article/pii/S1569843224003686?via%3Dihub) (IF-7.6, JCR-Q1, 中科院1区)
 * Zijun Wei; Chaozhen Lan; Qing Xu; Longhao Wang; __Tian Gao__; Fushan Yao; Huitai Hou. SatellStitch: Satellite Imagery-Assisted UAV Image Seamless Stitching for Emergency Response without GCP and GNSS. Remote Sensing. 2024, 16, 309. [pdf](https://www.mdpi.com/2072-4292/16/2/309) (IF-5.0, JCR-Q1, 中科院2区)
 
 2023
