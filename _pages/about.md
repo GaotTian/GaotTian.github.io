@@ -24,7 +24,7 @@ Publications
 
 2024
 ======
-* [**GNSS-denied geolocalization of UAVs using terrain-weighted constraint optimization**](https://www.sciencedirect.com/science/article/pii/S1569843224006332?via%3Dihub)\
+* [**GNSS-denied geolocalization of UAVs using terrain-weighted constraint optimization**](../assets/GNSS-deniedgeolocalization_of_UAVsusingterrain-weightedconstraint.pdf)\
   Fushan Yao; Chaozhen Lan; Longhao Wang; Hongfa Wan; __Tian Gao__; Zijun Wei.\
   International Journal of Applied Earth Observation and Geoinformation. (IF-7.6, JCR-Q1, 中科院1区)
 * [**DEM super-resolution guided by shaded relief using attention-based fusion**](https://www.sciencedirect.com/science/article/pii/S1569843224003686?via%3Dihub)\
