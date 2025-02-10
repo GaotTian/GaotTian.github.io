@@ -27,7 +27,7 @@ Publications
 * [**GNSS-denied geolocalization of UAVs using terrain-weighted constraint optimization**](../assets/GNSS-deniedgeolocalization_of_UAVsusingterrain-weightedconstraint.pdf)\
   Fushan Yao; Chaozhen Lan; Longhao Wang; Hongfa Wan; __Tian Gao__; Zijun Wei.\
   International Journal of Applied Earth Observation and Geoinformation. (IF-7.6, JCR-Q1, 中科院1区)
-* [**DEM super-resolution guided by shaded relief using attention-based fusion**](https://www.sciencedirect.com/science/article/pii/S1569843224003686?via%3Dihub)\
+* [**DEM super-resolution guided by shaded relief using attention-based fusion**](../assets/DEM_super-resolution_guided_by_shaded_relief_using_attention-based_fusion.pdf)\
   Wenjun Huang; Qun Sun; Wenyue Guo; Qing Xu; Jingzhen Ma; __Tian Gao__; Anzhu Yu.\
   International Journal of Applied Earth Observation and Geoinformation. (IF-7.6, JCR-Q1, 中科院1区)
 * [**SatellStitch: Satellite Imagery-Assisted UAV Image Seamless Stitching for Emergency Response without GCP and GNSS**](https://www.mdpi.com/2072-4292/16/2/309)\
